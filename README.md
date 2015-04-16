@@ -21,7 +21,6 @@ Provide below are user stories with their acceptance criteria. Using one of the 
 
 ### #3 As a user, I would like to have a screen which shows a pie chart breakdown of all Presidential parties.
 
-- Should show a full-page pie chart depicting the party each president served under
-- Page should have a legend for the corresponding pie chart
+- Should show a large pie chart depicting the party each president served under
 
 ---
